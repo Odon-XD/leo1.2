@@ -14,7 +14,7 @@ $ git clone https://github.com/Odon-XD/leo1.2
 
 $ ls
 
-$ cd Odon-XD
+$ cd leo1.2
 
 $ python leo1.2.py
 
