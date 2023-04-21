@@ -16,7 +16,7 @@ $ ls
 
 $ cd leo
 
-$ python leo1.1.py
+$ python leo1.2.py
 
 # leo1.2
 Update Malam Takbiran 
