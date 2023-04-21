@@ -10,11 +10,11 @@ $ pip install rich bs4
 
 $ pip install stdiomask
 
-$ git clone https://github.com/Odon-XD/leo
+$ git clone https://github.com/Odon-XD/leo1.2
 
 $ ls
 
-$ cd leo
+$ cd Odon-XD
 
 $ python leo1.2.py
 
